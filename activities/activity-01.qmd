@@ -2,3 +2,7 @@
 title: "Activity 01"
 ---
 
+```{r}
+rep(2,3)
+```
+
